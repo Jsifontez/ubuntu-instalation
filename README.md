@@ -11,7 +11,8 @@ steps to make ubuntu ready for development and make my life easier.
   1. Install font manager
   2. Add a nerd font: Caskaydia
   3. Install starship
-5. Install [fnm](https://github.com/Schniz/fnm)
-6. Install Node.js LTS
-7. Install Brave
-8. Install Vscode
+5. Install [tmux]([https://github.com/tmux/tmux/wiki](https://github.com/tmux/tmux/wiki/Installing))
+6. Install [fnm](https://github.com/Schniz/fnm)
+7. Install Node.js LTS
+8. Install Brave
+9. Install Vscode
